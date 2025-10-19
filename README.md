@@ -1,2 +1,2 @@
 # Class_Component_and_Basic_Printout_Statement_and_the_Dot_Operator_and_the_New_Operator_EP2
-aa
+A rigorous exploration of class components, basic print statements, the dot operator, and the new operator is conducted using bank account and person properties as examples. Through this approach, participants will attain a precise and comprehensive understanding of object creation, member access, and data output in programming.
